@@ -86,4 +86,3 @@ Ensure that your project is set up to communicate with the back-end server by co
 ## Contact
 
 For any questions or issues, please contact [josealfredore200326@gmail.com](mailto:josealfredore200326@gmail.com).
-# employee-front
